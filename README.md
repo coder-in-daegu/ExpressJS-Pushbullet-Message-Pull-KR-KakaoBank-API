@@ -28,5 +28,5 @@ PushBullet API가 필요합니다.
 [Express](https://github.com/expressjs/express)
 
 ## 안내
-2차 판매 금지 호스팅 포함
+2차 판매 금지 호스팅 포함  
 다양한 은행 추가 원하시면 `먼G#3661` 친추후 DM
